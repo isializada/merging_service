@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: merging
+
+server:
+  port: 8085

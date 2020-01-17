@@ -1,0 +1,6 @@
+de/alizada/merging_service/merging_service/config/AppConfiguration.class
+de/alizada/merging_service/merging_service/exception/BadRequestException.class
+de/alizada/merging_service/merging_service/controller/MergingController.class
+de/alizada/merging_service/merging_service/MergingServiceApplication.class
+de/alizada/merging_service/merging_service/service/MergingService.class
+de/alizada/merging_service/merging_service/repository/MergingRepository.class
