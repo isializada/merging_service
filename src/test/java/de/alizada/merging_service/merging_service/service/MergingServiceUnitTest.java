@@ -5,7 +5,6 @@ import de.alizada.merging_service.merging_service.repository.MergingRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import org.mockito.invocation.InvocationOnMock;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.mockito.stubbing.Answer;
 import org.springframework.web.client.HttpClientErrorException;
